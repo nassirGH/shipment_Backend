@@ -11,6 +11,8 @@
 # cd ./backend/blog ==> open the terminal and paste the following code please:
 
 # 1- composer install
+# 2- rename .env.example to .env
+# 3- change the database setup in your .env file with respect to your local machine
 # 2- php artisan vendor:publish
 # 3- php artisan jwt:secret
 # 4- php artisan key:generate
